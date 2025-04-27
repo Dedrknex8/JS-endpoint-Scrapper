@@ -16,7 +16,7 @@ https://example.com/api/login [ALIVE]
 https://example.com/admin/dashboard [ALIVE]
 https://example.com/test/api [Status: 404]
 ...
-�� Features
+Features
 ✅ Automatically adds https:// if missing
 
 ✅ Scrapes external JavaScript files from the page
@@ -110,11 +110,11 @@ If you like this project, please ⭐️ star this repo!
 It helps a lot and motivates me to build more awesome tools.
 
 🔗 Connect With Me
-GitHub: yourusername
+GitHub: dedrknex8
 
-Twitter: @yourhandle
+Twitter: dedrknex
 
-Medium: @yourmedium
+Medium: dedrknex@medium
 
 🐍
 Built with Python and 💙 for the Cybersecurity Community.
